@@ -1,0 +1,27 @@
+    body{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+   
+
+    
+    .container{
+        display: flex;
+        
+    }
+
+    .row{
+        display: flex;
+        flex-flow: column;
+    }
+
+    .column{
+        border: 1px solid black;
+        padding: 10px;
+        background-color: greenyellow;
+    }
+
+    .hovered {
+        background-color: red;
+    }
